@@ -11,38 +11,60 @@ Tools yang dipakai untuk membuat pemrograman adalah Visual Studio Code menggunak
 - Menu Utama
 [![menu-utama.png](https://i.postimg.cc/bJnVfVRq/menu-utama.png)](https://postimg.cc/mzbyQwqn)
 
-- **Menu 1**
+
+
+- Menu 1
+
 [![Menu-1.png](https://i.postimg.cc/m2qjNz10/Menu-1.png)](https://postimg.cc/QHQcjMbb)
 
 - Menu 1.1 (Menampilkan seluruh data pasien)
+
 [![Menu-1-1.png](https://i.postimg.cc/85PLVNrR/Menu-1-1.png)](https://postimg.cc/hJ6XLFsv)
 
 - Menu 1.2 (Menampilkan data pasien berdasarkan kode pasien)
+
 [![Menu-1-2.png](https://i.postimg.cc/B6XcKJQq/Menu-1-2.png)](https://postimg.cc/FdXLt5Lq)
 
 - Menu 1.3 (Menampilkan rekomendasi obat untuk penyakit pasien)
+
 [![Menu-1-3.png](https://i.postimg.cc/QCc7QCLr/Menu-1-3.png)](https://postimg.cc/jndCKsd8)
 
-- **Menu 2**
+
+
+- Menu 2
+
 [![Menu-2.png](https://i.postimg.cc/mr0hm4yZ/Menu-2.png)](https://postimg.cc/TyJRPZsB)
 
 - Menu 2.1 (Menambahkan data pasien baru)
+
 [![Menu-2-1.png](https://i.postimg.cc/4NN4bnRb/Menu-2-1.png)](https://postimg.cc/3WVH38Rd)
 
-- **Menu 3**
+
+
+- Menu 3
+
 [![Menu-3.png](https://i.postimg.cc/vT8yz2kH/Menu-3.png)](https://postimg.cc/ftP1WCM6)
 
 - Menu 3.1 (Mengupdate data pasien)
+
 [![Menu-3-1.png](https://i.postimg.cc/L6qwpMtF/Menu-3-1.png)](https://postimg.cc/HVgBwRv6)
 
-- **Menu 4**
+
+
+- Menu 4
+
 [![Menu-4.png](https://i.postimg.cc/hG4NNQMp/Menu-4.png)](https://postimg.cc/HrKSyxqy)
 
 - Menu 4.1 (Menghapus data pasien)
+
 [![Menu-4-1.png](https://i.postimg.cc/bwp522Xp/Menu-4-1.png)](https://postimg.cc/tYvkKJCM)
 
 - Menu 4.2 (Menghapus seluruh data pasien/reset)
+
 [![Menu-4-2.png](https://i.postimg.cc/pLLZHQbh/Menu-4-2.png)](https://postimg.cc/fJ1X79bD)
 
-- **Menu 5**
+
+
+- Menu 5
+
 [![Menu-5.png](https://i.postimg.cc/Hk8rXjbv/Menu-5.png)](https://postimg.cc/dhvQKsHG)
