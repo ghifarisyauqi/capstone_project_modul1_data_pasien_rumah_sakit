@@ -15,6 +15,7 @@ Tools yang dipakai untuk membuat pemrograman adalah Visual Studio Code menggunak
 
 - Menu 1
 
+
 [![Menu-1.png](https://i.postimg.cc/m2qjNz10/Menu-1.png)](https://postimg.cc/QHQcjMbb)
 
 - Menu 1.1 (Menampilkan seluruh data pasien)
@@ -67,4 +68,4 @@ Tools yang dipakai untuk membuat pemrograman adalah Visual Studio Code menggunak
 
 - Menu 5
 
-[![Menu-5.png](https://i.postimg.cc/Hk8rXjbv/Menu-5.png)](https://postimg.cc/dhvQKsHG)
+[![Menu-5.png](https://i.postimg.cc/pd4rTv9b/Menu-5.png)](https://postimg.cc/Mc0qPhbd)
